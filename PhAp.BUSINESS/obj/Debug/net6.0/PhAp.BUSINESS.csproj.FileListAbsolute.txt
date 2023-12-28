@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\bin\Debug\net6.0\PhAp.BUSINESS.deps.json
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\bin\Debug\net6.0\PhAp.BUSINESS.dll
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\bin\Debug\net6.0\PhAp.BUSINESS.pdb
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\bin\Debug\net6.0\PhAp.CORE.dll
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\bin\Debug\net6.0\PhAp.DAL.dll
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\bin\Debug\net6.0\PhAp.DAL.pdb
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\bin\Debug\net6.0\PhAp.CORE.pdb
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\obj\Debug\net6.0\PhAp.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\obj\Debug\net6.0\PhAp.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\obj\Debug\net6.0\PhAp.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\obj\Debug\net6.0\PhAp.BUSINESS.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\obj\Debug\net6.0\PhAp.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\obj\Debug\net6.0\PhAp.BUSINESS.csproj.CopyComplete
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\obj\Debug\net6.0\PhAp.BUSINESS.dll
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\obj\Debug\net6.0\refint\PhAp.BUSINESS.dll
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\obj\Debug\net6.0\PhAp.BUSINESS.pdb
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.BUSINESS\obj\Debug\net6.0\ref\PhAp.BUSINESS.dll

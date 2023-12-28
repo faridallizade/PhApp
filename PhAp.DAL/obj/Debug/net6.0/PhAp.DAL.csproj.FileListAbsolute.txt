@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\bin\Debug\net6.0\PhAp.DAL.deps.json
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\bin\Debug\net6.0\PhAp.DAL.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\bin\Debug\net6.0\PhAp.DAL.dll
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\bin\Debug\net6.0\PhAp.DAL.pdb
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\bin\Debug\net6.0\PhAp.CORE.dll
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\bin\Debug\net6.0\PhAp.CORE.pdb
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\PhAp.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\PhAp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\PhAp.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\PhAp.DAL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\PhAp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\PhAp.DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\PhAp.DAL.dll
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\refint\PhAp.DAL.dll
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\PhAp.DAL.pdb
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\PhAp.DAL.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\PhApp\PhAp.DAL\obj\Debug\net6.0\ref\PhAp.DAL.dll
